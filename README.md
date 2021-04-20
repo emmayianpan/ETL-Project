@@ -25,21 +25,21 @@ The report is to utilize different data types; therefore, first I found country 
 
 ## Transformation (T)
 This step is to import data, select columns needed, and clean/organize data. I unified “country” under lower cases for better merging on the next step. 
-* Import and convert data into DataFrame
+* **Import and convert data into DataFrame**
 <img src="image/screenshot1.png" alt="Webpage Screenshot">
 
-* Clean data (select, rename columns and unify “country” under lower case) 
+* **Clean data (select, rename columns and unify “country” under lower case)** 
 <img src="image/screenshot2.png" alt="Webpage Screenshot">
 
 ## Load (L)
 The last step is to load data into Postgres and merge the four tables by using SQL skills.   
-* Load data into Postgres
+* **Load data into Postgres**
 <img src="image/screenshot3.png" alt="Webpage Screenshot">
 
-* Create Table
+* **Create Table**
 <img src="image/screenshot4.png" alt="Webpage Screenshot">
 
-* Merge Table
+* **Merge Table**
 <img src="image/screenshot5.png" alt="Webpage Screenshot">
 
 
