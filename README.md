@@ -6,7 +6,8 @@
 </p>
 
 ## About The Project
-The project is to...
+The project is to practice with ETL process under different data types for further analysis. Final output is performed as the combined dataset of Country (JSON), Forex (CSV), 
+Population (CSV) and Inflation(EXCEL). 
   
 ## Built With
 * [Python Pandas](https://pandas.pydata.org/) 
@@ -29,6 +30,18 @@ This step is to import data, select columns needed, and clean/organize data. I u
 
 * Clean data (select, rename columns and unify “country” under lower case) 
 <img src="image/screenshot2.png" alt="Webpage Screenshot">
+
+## Load (L)
+The last step is to load data into Postgres and merge the four tables by using SQL skills.   
+* Load data into Postgres
+<img src="image/screenshot3.png" alt="Webpage Screenshot">
+
+* Create Table
+<img src="image/screenshot4.png" alt="Webpage Screenshot">
+
+* Merge Table
+<img src="image/screenshot5.png" alt="Webpage Screenshot">
+
 
 ## Created by 
 Yi An Pan (Emma)
