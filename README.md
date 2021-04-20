@@ -6,7 +6,7 @@
 </p>
 
 ## About The Project
-<strong><i> The website is to analyze Taiwan hotel market and to visualize data on a monthly basis for hoteliers to review competitors performance, pricing, and seasonality from macro and micro prospectives, and for potential investors to receive basic information of current market trend in hotel industry. </i></strong>
+The project is to...
   
 ## Built With
 * [Python Pandas](https://pandas.pydata.org/) 
@@ -25,9 +25,9 @@ The report is to utilize different data types; therefore, first I found country 
 ## Transformation (T)
 This step is to import data, select columns needed, and clean/organize data. I unified “country” under lower cases for better merging on the next step. 
 * Import and convert data into DataFrame
-<img src="image/screenshot1.png" alt="Webpage Screenshot" width="900" height="450">
+<img src="image/screenshot1.png" alt="Webpage Screenshot" width="400" height="200">
 * Clean data (select, rename columns and unify “country” under lower case) 
-<img src="image/screenshot2.png" alt="Webpage Screenshot" width="900" height="450">
+<img src="image/screenshot2.png" alt="Webpage Screenshot" width="800" height="400">
 
 ## Created by 
 Yi An Pan (Emma)
